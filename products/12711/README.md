@@ -1,0 +1,1 @@
+Models generated from [these file(s)](https://raw.github.com/sparkfun/USB_LiPolyCharger_SingleCell/v2.0/Hardware/SparkFun_USB_LiPolyCharger_SingleCell.brd) using EagleUp on 02/17/15 at 11:08:48 -07:00

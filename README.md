@@ -62,6 +62,13 @@ Specular: #FFB730 Intensity: 0.5
 Hardness: 100
 ```
 
+#### Leads
+```
+Diffuse:  #FFFFFF Intensity: 0.8
+Specular: #E6E6E6 Intensity: 0.5
+Hardness: 100
+```
+
 #### Black plastic (Headers, specifically)
 ```
 Diffuse:  #000000 Intensity: 0.8
@@ -83,9 +90,16 @@ Diffuse:  #98041C Intensity: 1.0
 Specular: #98041C Intensity: 0.5
 Hardness: 50
 ```
-_Textured Material_
+_Textured Material_)(red)
 ```
 Diffuse:  #FFFFFF Intensity: 1.0
 Specular: #98041C Intensity: 0.5
 Hardness: 50
+```
+#### Blue plastic (Screw Terminals)
+```
+Diffuse:  #0000FF Intensity: 0.8
+Specular: #0000A5 Intensity: 0.5
+Hardness: 50
+
 ```
